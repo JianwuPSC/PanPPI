@@ -1,5 +1,5 @@
 # PanPPI
-<img width="857" height="655" alt="model" src="C:/Users/Admin/Desktop/PPI_PPAM/fig/model.png" />
+<img width="857" height="655" alt="model" src="https://github.com/JianwuPSC/PanPPI/blob/main/example/model.png" />
 
 PanPPI: Cross-species Protein-Protein Interaction Prediction
 ## Description
