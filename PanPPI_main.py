@@ -9,7 +9,7 @@ import torch
 from collections import OrderedDict
 from lightning.pytorch.callbacks import ModelCheckpoint
 from lightning.pytorch.strategies import DDPStrategy
-from model.class_dataset import Class_CSVDataset,Class_CollateFn, Alphabet
+from model.class_dataset_train import Class_CSVDataset,Class_CollateFn, Alphabet
 from model.class_wrapper import ESMWrapper,upgrade_state_dict,ESM_Inference_Wrapper
 from transformers import EsmForSequenceClassification
 import os
